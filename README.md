@@ -11,7 +11,6 @@ Course Assignment for IDAA - Machine Learning @ IIIT Allahabad.
 - [Introduction](#introduction)
 - [Data](#data)
 - [Instructions to run the scripts](#instructions-to-run-the-scripts)
-      - [Agglomerative clustering](#agglomerative-clustering)
 - [Equations used](#equations-used)
 - [Posteriori Analysis](#posteriori-analysis)
   * [Agglomerative](#agglomerative)
