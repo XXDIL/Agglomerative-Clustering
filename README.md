@@ -63,7 +63,7 @@ Mean or average linkage clustering -> sum of all d(a,b)/(|A|+|B|)
 
 
 ## Group Members
-Shubham Soni
+[Shubham Soni](http://github.com/SHUBHAM-SONI-177)
 
 [Manav Agrawal](http://github.com/mka2011)
 
